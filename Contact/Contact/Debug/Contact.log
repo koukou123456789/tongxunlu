@@ -1,0 +1,6 @@
+﻿  contact.cpp
+D:\Users\experiment\Contact\Contact\contact.cpp(102,10): warning C4477: “printf”: 格式字符串“%-5d”需要类型“int”的参数，但可变参数 3 拥有了类型“const char *”
+D:\Users\experiment\Contact\Contact\contact.cpp(160,10): warning C4477: “printf”: 格式字符串“%-5d”需要类型“int”的参数，但可变参数 3 拥有了类型“const char *”
+  test.cpp
+  正在生成代码...
+  Contact.vcxproj -> D:\Users\experiment\Contact\Debug\Contact.exe
